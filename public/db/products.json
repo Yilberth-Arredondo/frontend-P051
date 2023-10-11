@@ -1,0 +1,124 @@
+{
+  "productos": [
+    {
+      "nombre": "Leche de almendras",
+      "precio": 14000,
+      "descripcion": "Leche vegetal de almendras, ideal para sustituir la leche de vaca en tus recetas y bebidas.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Hamburguesas de garbanzos",
+      "precio": 15700,
+      "descripcion": "Hamburguesas veganas elaboradas con garbanzos y especias, perfectas para una comida rápida y saludable.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Queso vegano cheddar",
+      "precio": 20900,
+      "descripcion": "Queso vegano tipo cheddar, ideal para sándwiches y nachos.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Tofu orgánico",
+      "precio": 10900,
+      "descripcion": "Tofu de alta calidad, perfecto para preparar platos asiáticos y vegetarianos.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Yogur de coco",
+      "precio": 12300,
+      "descripcion": "Yogur de coco 100% vegano y sin lactosa, con sabor agradable y cremosidad.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Chips de kale",
+      "precio": 20800,
+      "descripcion": "Snack saludable de chips de kale deshidratado con sabores naturales.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Salsa de tomate vegana",
+      "precio": 9300,
+      "descripcion": "Salsa de tomate vegana y orgánica, perfecta para tus platos de pasta y pizza.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Aceite de oliva extra virgen",
+      "precio": 26100,
+      "descripcion": "Aceite de oliva de alta calidad prensado en frío, ideal para cocinar y aliñar ensaladas.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Levadura nutricional",
+      "precio": 21400,
+      "descripcion": "Levadura nutricional en escamas, rica en vitaminas B, perfecta para dar sabor a tus platos veganos.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Salsa de soja orgánica",
+      "precio": 11900,
+      "descripcion": "Salsa de soja orgánica y libre de gluten, ideal para sazonar platos y marinados.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Chocolate negro vegano",
+      "precio": 15800,
+      "descripcion": "Tableta de chocolate negro vegano con alto contenido de cacao.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Mantequilla de almendras",
+      "precio": 17300,
+      "descripcion": "Mantequilla de almendras 100% natural, rica en proteínas y sin aditivos.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Harina de avena integral",
+      "precio": 9300,
+      "descripcion": "Harina de avena integral, ideal para hornear pan, galletas y pasteles veganos.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Sopa de lentejas",
+      "precio": 8400,
+      "descripcion": "Sopa enlatada de lentejas veganas, lista para calentar y servir.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Cereal de desayuno vegano",
+      "precio": 15000,
+      "descripcion": "Cereal de desayuno vegano con frutos secos y pasas, endulzado con sirope de arce.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Salsa de aguacate",
+      "precio": 13000,
+      "descripcion": "Salsa de aguacate vegana, ideal para acompañar tacos y burritos.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Champiñones en conserva",
+      "precio": 6400,
+      "descripcion": "Champiñones en conserva ideales para añadir a tus guisos y salteados veganos.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Barritas de cereales veganas",
+      "precio": 13800,
+      "descripcion": "Barritas de cereales veganas con frutos secos y semillas, perfectas como snack saludable.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Pasta de garbanzos",
+      "precio": 14600,
+      "descripcion": "Pasta de garbanzos sin gluten, rica en proteínas y fibra.",
+      "disponibilidad": true
+    },
+    {
+      "nombre": "Salsa de cacahuete orgánica",
+      "precio": 15800,
+      "descripcion": "Salsa de cacahuete orgánica sin aditivos, ideal para platos orientales y dip de verduras.",
+      "disponibilidad": true
+    }
+  ]
+}

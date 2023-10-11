@@ -3,15 +3,14 @@ import React from 'react';
 export default function Landing() {
   return (
     <>
-      <header>
-        <div class='container'>
-          <p class='logo'> PROYECTO </p>
-          <nav>
-            <a href='#somospro'>Quienes Somos</a>
-            <a href='#n'>Nuestros proyectos</a>
-            <a href='/login'>Login</a>
-          </nav>
-        </div>
+      <header id='navbar'>
+        <nav>
+          <a href='#somospro'>Tienda</a>
+          <a href='#somospro'>About</a>
+          <p className='logo'> PROYECTO </p>
+          <a href='/login'>Login</a>
+          <a href='/login'>Carrito</a>
+        </nav>
       </header>
 
       <section id='hero'>
@@ -23,12 +22,12 @@ export default function Landing() {
         </form>
       </section>
       <section id='somospro'>
-        <div class='container'>
-          <div class='img-container'></div>
-          <div class='texto'>
+        <div className='container'>
+          <div className='img-container'></div>
+          <div className='texto'>
             <h2>
               Los mejores productos
-              <span class='coloracento'>
+              <span className='coloracento'>
                 <br /> veganos
               </span>
             </h2>
@@ -42,10 +41,10 @@ export default function Landing() {
         </div>
       </section>
       <section id='n'>
-        <div class='container'>
+        <div className='container'>
           <h2> Mis proyectos</h2>
-          <div class='programas'>
-            <div class='carta'>
+          <div className='programas'>
+            <div className='carta'>
               <h3>Ajedrez</h3>
               <p>
                 Pronto tendremos una actualización de nuestros proyectos,
@@ -53,7 +52,7 @@ export default function Landing() {
               </p>
               <button>+ info</button>
             </div>
-            <div class='carta'>
+            <div className='carta'>
               <h3>Juegos </h3>
               <p>
                 Pronto tendremos una actualización de nuestros proyectos,

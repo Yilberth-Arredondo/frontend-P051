@@ -1,5 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Login } from './Login/Login';
+import { Product } from './Admin/Product';
 import { Dash } from './Admin/Dash';
 import Landing from './Landing/Landing';
 
@@ -18,7 +19,10 @@ function App() {
           path='/dash'
           element={<Dash />}
         />
-
+        <Route
+          path='/producto/:id'
+          element={<Product />}
+        />
         <Route
           path='/'
           element={<Landing />}
